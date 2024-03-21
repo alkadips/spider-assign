@@ -1,0 +1,283 @@
+
+body{
+    font-family: sans-serif;
+}
+
+/* ----------------------------------------background color css------------------------------- */
+.background{
+    background: linear-gradient(to right, black, #462280, black);
+    color:white
+}
+.bg-black{
+    background-color: #000;
+}
+.bg-pink{
+    background-color: #D175B6;
+}
+
+/* ---------------------------------------------------------text color css---------------------------- */
+.text-white{
+    color: white;
+}
+.text-pink{
+    color: #D175B6;
+}
+.text-black{
+    color: #000;
+}
+
+/* -----------------------------------gap-css--------------------------------------- */
+.gap-10{
+    gap:10px;
+}
+.gap-20{
+    gap: 20px;
+}
+
+/* ------------------------------border css----------------------- */
+.border{
+    border: 2px solid #D175B6;
+}
+.rounded{
+    border-radius: 10px;
+}
+
+/* ----------------------------------------------font css------------------------- */
+.name-font-size{
+    font-size: 14px;
+}
+
+.font-bold{
+    font-weight: bold;
+}
+.text-2xl{
+    font-size: 25px;
+}
+.text-xl{
+    font-size: 15px;
+}
+.text-xs{
+    font-size: 10px;
+}
+
+/* ---------------------------------flex css--------------------------- */
+.justify-around{
+    justify-content: space-around;
+}
+.justify-center{
+    justify-content: center;
+    align-items: center;
+}
+.align-center{
+    align-items: center;
+}
+.justify-evenly{
+    justify-content: space-evenly;
+}
+.d-flex{
+    display: flex;
+}
+.justify-between{
+    justify-content: space-between;
+}
+
+/* ----------------------------------------width css------------------- */
+
+.w-50{
+    width: 50%;
+}
+.w-full{
+    width: 100%;
+}
+.w-75{
+    width: 75%;
+}
+.w-15{
+    width: 15%;
+}
+.w-85{
+    width: 85%;
+}
+.img-width{
+    width: 65px;
+}
+
+/* ----------------------padding css--------------------- */
+.p-5{
+    padding: 10px;
+}
+.p-20{
+    padding: 20px;
+}
+
+.p-3{
+    padding: 5px;
+}
+
+/* -----------------------------margin css---------------------- */
+.mt-3{
+    margin-top: 10px;
+}
+.mt-20{
+    margin-top: 20px;
+}
+
+.margin-left-20{
+    margin-left: 20px;
+}
+.margin-top-20-minus{
+    margin-top: -45px;
+}
+.margin-left{
+    margin-left: 10px;
+}
+.mb-20{
+    margin-bottom: 20px;
+}
+.mt-30{
+    margin-top: 30px;
+}
+.margin-top-100{
+    margin-top: 100px;
+}
+.position-relative{
+    position: relative;
+}
+
+/* --------------------------------------------common css------------------------ */
+.border-radius-input{
+    border-radius: 5px;
+}
+
+.search-icon{
+    width: 12px;
+    left: 5%;
+    top: 10%;
+    position: absolute;
+}
+
+.event-sidebar-height{
+    height: 890px;
+}
+.meeting-room-height{
+    height: 520px;
+}
+.search-input{
+    padding-left: 25px;
+    border: 1px solid;
+}
+.add-button{
+    background: #ef00ff;
+    padding: 6px;
+    width: 16px;
+    border-radius: 5px;
+}
+
+.action-button {
+     padding: 10px;
+   color: #D175B6;
+    cursor: pointer;
+  }
+  
+  .action-button.active {
+    background-color: #D175B6;
+    color: #fff;
+
+  }
+.count-back{
+    background: white;
+    padding: 0px;
+    border-radius: 50%;
+    width: 15px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.select-coordinator{
+    border-radius: 10px;
+    padding: 10px;
+    background: linear-gradient(to right, black, #462280, black);
+    border:1px solid white;
+    color:rgb(151 140 140); 
+}
+
+.header-section{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+
+}
+.green{
+    color: #68cc86;
+    font-weight: bold;
+}
+.pinknotification{
+    position: absolute;
+    left: 43%;
+    top: 41%;
+}
+.pinkdropdown{
+    position: absolute;
+    left: 13%;
+    top: 21%;
+}
+
+ 
+.bg-save-pink{
+    background-color: #D85AD8;
+    width: 33%;
+}
+/* -------------------------------------------------------------table custom css-------------------- */
+.css-1ygcj2i-MuiTableCell-root{
+    color: white!important;
+    border-bottom: 2px solid #D175B6!important;
+    line-height: 0.5rem!important
+    
+    }
+    .css-1ex1afd-MuiTableCell-root{
+        color: #fff!important;
+        border-bottom: 2px solid #D175B6!important;
+        padding: 0px!important;
+    
+    }
+    .css-1q1u3t4-MuiTableRow-root{
+        border-bottom: 2px solid #D175B6!important;
+    }
+    
+    .css-jtlhu6-MuiTablePagination-root{
+        color: white!important;
+    }
+    .css-15wwp11-MuiTableHead-root{
+        background-color: #D175B6;
+    }
+    .css-10dfkli-MuiTableCell-root{
+        color: white!important;
+    }
+    .css-1azl6jz-MuiTableCell-root{
+        color: white!important;
+    }
+    .css-11w94w9-MuiTableCell-root{
+        border-bottom: 2px solid #D175B6!important;
+    }
+    .css-177gid-MuiTableCell-root{
+        border-bottom: 2px solid #D175B6!important;
+        color: white!important;
+    }
+    .css-1nf681w-MuiTableCell-root{
+        border-bottom: 2px solid #D175B6!important;
+    }
+    .css-10dfkli-MuiTableCell-root{
+        border-bottom: 2px solid #D175B6!important;
+    
+    }
+    .css-1azl6jz-MuiTableCell-root{
+        border-bottom: 2px solid #D175B6!important;
+    
+    }
+    .css-hbtnrh-MuiTableCell-root{
+        border-bottom: 2px solid #D175B6!important;
+    
+    }
+    
+    
