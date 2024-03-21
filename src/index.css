@@ -6,13 +6,13 @@ body{
 /* ----------------------------------------background color css------------------------------- */
 .background{
     background: linear-gradient(to right, black, #462280, black);
-    color:white
+    color:white!important;
 }
 .bg-black{
     background-color: #000;
 }
 .bg-pink{
-    background-color: #D175B6;
+    background-color: #D175B6!important;
 }
 
 /* ---------------------------------------------------------text color css---------------------------- */
@@ -20,7 +20,7 @@ body{
     color: white;
 }
 .text-pink{
-    color: #D175B6;
+    color: #D175B6!important;
 }
 .text-black{
     color: #000;
@@ -36,7 +36,7 @@ body{
 
 /* ------------------------------border css----------------------- */
 .border{
-    border: 2px solid #D175B6;
+    border: 2px solid #D175B6!important;
 }
 .rounded{
     border-radius: 10px;
@@ -279,5 +279,30 @@ body{
         border-bottom: 2px solid #D175B6!important;
     
     }
+    .css-1bigob2 {
+        color: #fff!important;
+    }
+   .css-q34dxg{
+    color: white!important;
+   }
+   .css-1i36psw{
+    color: white!important;
+   }
+   .css-1wbz3t9{
+    border-bottom: 2px solid #D175B6!important;
+
+   }
+   .css-16nxph9 {
+    border-bottom: 2px solid #D175B6!important;
+   }
     
-    
+   .css-1h6kq28 {
+    color: white!important;
+   }
+   .css-1sgp6db{
+    border-bottom: 2px solid #D175B6!important;
+
+   }
+   .css-o9ey65{
+    color: #fff!important;
+   }
